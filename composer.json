@@ -1,0 +1,15 @@
+{
+    "name": "norberttech/test-repo-a",
+    "autoload": {
+        "psr-4": {
+            "Norberttech\\TestRepoA\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Norbert Orzechowicz",
+            "email": "norbert@orzechowicz.pl"
+        }
+    ],
+    "require": {}
+}
